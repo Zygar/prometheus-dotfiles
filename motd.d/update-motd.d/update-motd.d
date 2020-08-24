@@ -1,0 +1,1 @@
+/home/adam/prometheus-dotfiles/motd.d/update-motd.d
