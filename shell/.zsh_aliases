@@ -1,0 +1,2 @@
+alias wificonfig='sudo nano /etc/wpa_supplicant/wpa_supplicant.conf'
+alias wifireload='sudo wpa_cli -i wlx60634c2d8330 reconfigure'
