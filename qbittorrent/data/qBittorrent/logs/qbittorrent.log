@@ -1,0 +1,189 @@
+(N) 2020-08-25T11:25:26 - qBittorrent v4.2.5 started
+(N) 2020-08-25T11:25:26 - Using config directory: /config/qBittorrent/
+(I) 2020-08-25T11:25:26 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-25T11:25:26 - Peer ID: -qB4250-
+(N) 2020-08-25T11:25:26 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-25T11:25:26 - DHT support [ON]
+(I) 2020-08-25T11:25:26 - Local Peer Discovery support [ON]
+(I) 2020-08-25T11:25:26 - PeX support [ON]
+(I) 2020-08-25T11:25:26 - Anonymous mode [OFF]
+(I) 2020-08-25T11:25:26 - Encryption support [ON]
+(W) 2020-08-25T11:25:26 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2020-08-25T11:25:26 - Using built-in Web UI.
+(W) 2020-08-25T11:25:26 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-25T11:25:26 - Web UI: Now listening on IP: *, port: 8080
+(I) 2020-08-25T11:25:26 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-25T11:25:26 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-25T11:25:26 - Successfully listening on IP: 172.17.0.3, port: TCP/6881
+(I) 2020-08-25T11:25:26 - Successfully listening on IP: 172.17.0.3, port: UDP/6881
+(I) 2020-08-25T11:25:28 - Detected external IP: 115.189.100.204
+(I) 2020-08-25T11:25:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(I) 2020-08-25T11:25:31 - Successfully updated IP geolocation database.
+(W) 2020-08-25T11:25:38 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:10.10.10.34'. Server port: '8080'. Received Host header: 'core.prometheus:8098'
+(W) 2020-08-25T11:25:40 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:10.10.10.34'. Server port: '8080'. Received Host header: 'core.prometheus:8098'
+(W) 2020-08-25T11:25:46 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:10.10.10.34'. Server port: '8080'. Received Host header: 'core.prometheus:8098'
+(W) 2020-08-25T11:25:47 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:10.10.10.34'. Server port: '8080'. Received Host header: 'core.prometheus:8098'
+(W) 2020-08-25T11:25:48 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:10.10.10.34'. Server port: '8080'. Received Host header: 'core.prometheus:8098'
+(W) 2020-08-25T11:25:48 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:10.10.10.34'. Server port: '8080'. Received Host header: 'core.prometheus:8098'
+(W) 2020-08-25T11:25:54 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:10.10.10.34'. Server port: '8080'. Received Host header: 'core.prometheus:8098'
+(I) 2020-08-25T11:27:29 - UPnP / NAT-PMP support [OFF]
+(N) 2020-08-25T11:28:06 - qBittorrent v4.2.5 started
+(N) 2020-08-25T11:28:06 - Using config directory: /config/qBittorrent/
+(I) 2020-08-25T11:28:06 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-25T11:28:06 - Peer ID: -qB4250-
+(N) 2020-08-25T11:28:06 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-25T11:28:06 - DHT support [ON]
+(I) 2020-08-25T11:28:06 - Local Peer Discovery support [ON]
+(I) 2020-08-25T11:28:06 - PeX support [ON]
+(I) 2020-08-25T11:28:06 - Anonymous mode [OFF]
+(I) 2020-08-25T11:28:06 - Encryption support [ON]
+(I) 2020-08-25T11:28:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(N) 2020-08-25T11:28:06 - Using built-in Web UI.
+(W) 2020-08-25T11:28:06 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-25T11:28:06 - Web UI: Now listening on IP: *, port: 8098
+(I) 2020-08-25T11:28:06 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-25T11:28:06 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-25T11:28:06 - Successfully listening on IP: 172.17.0.3, port: TCP/6881
+(I) 2020-08-25T11:28:06 - Successfully listening on IP: 172.17.0.3, port: UDP/6881
+(I) 2020-08-25T11:28:07 - Detected external IP: 115.189.100.204
+(W) 2020-08-25T11:28:09 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:10.10.10.34, username: 
+(W) 2020-08-25T11:28:12 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:10.10.10.34, username: admin
+(W) 2020-08-25T11:28:15 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:10.10.10.34, username: admin
+(W) 2020-08-25T11:28:18 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:10.10.10.34, username: adam
+(N) 2020-08-25T11:28:33 - WebAPI login success. IP: ::ffff:10.10.10.34
+(N) 2020-08-25T11:29:40 - Web UI: Now listening on IP: *, port: 8098
+(N) 2020-08-25T11:30:09 - 'In Treatment Season 1' added to download list.
+(N) 2020-08-25T11:32:57 - Web UI: Now listening on IP: *, port: 8098
+(N) 2020-08-25T11:44:24 - Web UI: Now listening on IP: *, port: 8098
+(N) 2020-08-25T11:44:29 - 'In Treatment Season 1' reached the maximum ratio you set. Paused.
+(N) 2020-08-25T11:44:40 - Web UI: Now listening on IP: *, port: 8098
+(W) 2020-08-25T12:13:14 - File error alert. Torrent: "In Treatment Season 1". File: "/downloads/In Treatment Season 1/In.Treatment.S01E23.avi". Reason: In Treatment Season 1 file_write (/downloads/In Treatment Season 1/In.Treatment.S01E23.avi) error: Read-only file system
+(I) 2020-08-25T13:10:55 - UPnP / NAT-PMP support [OFF]
+(N) 2020-08-25T13:11:23 - qBittorrent v4.2.5 started
+(N) 2020-08-25T13:11:23 - Using config directory: /config/qBittorrent/
+(I) 2020-08-25T13:11:23 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-25T13:11:23 - Peer ID: -qB4250-
+(N) 2020-08-25T13:11:23 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-25T13:11:23 - DHT support [ON]
+(I) 2020-08-25T13:11:23 - Local Peer Discovery support [ON]
+(I) 2020-08-25T13:11:23 - PeX support [ON]
+(I) 2020-08-25T13:11:23 - Anonymous mode [OFF]
+(I) 2020-08-25T13:11:23 - Encryption support [ON]
+(I) 2020-08-25T13:11:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(N) 2020-08-25T13:11:23 - Using built-in Web UI.
+(W) 2020-08-25T13:11:23 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-25T13:11:23 - Web UI: Now listening on IP: *, port: 8098
+(I) 2020-08-25T13:11:23 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-25T13:11:23 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-25T13:11:23 - Successfully listening on IP: 172.17.0.3, port: TCP/6881
+(I) 2020-08-25T13:11:23 - Successfully listening on IP: 172.17.0.3, port: UDP/6881
+(N) 2020-08-25T13:11:23 - 'In Treatment Season 1' restored.
+(I) 2020-08-25T13:11:25 - Detected external IP: 115.189.100.204
+(I) 2020-08-25T17:09:49 - UPnP / NAT-PMP support [OFF]
+(N) 2020-08-25T17:10:16 - qBittorrent v4.2.5 started
+(N) 2020-08-25T17:10:16 - Using config directory: /config/qBittorrent/
+(I) 2020-08-25T17:10:17 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-25T17:10:17 - Peer ID: -qB4250-
+(N) 2020-08-25T17:10:17 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-25T17:10:17 - DHT support [ON]
+(I) 2020-08-25T17:10:17 - Local Peer Discovery support [ON]
+(I) 2020-08-25T17:10:17 - PeX support [ON]
+(I) 2020-08-25T17:10:17 - Anonymous mode [OFF]
+(I) 2020-08-25T17:10:17 - Encryption support [ON]
+(I) 2020-08-25T17:10:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(N) 2020-08-25T17:10:17 - Using built-in Web UI.
+(W) 2020-08-25T17:10:17 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-25T17:10:17 - Web UI: Now listening on IP: *, port: 8098
+(I) 2020-08-25T17:10:17 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-25T17:10:17 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-25T17:10:17 - Successfully listening on IP: 172.17.0.2, port: TCP/6881
+(I) 2020-08-25T17:10:17 - Successfully listening on IP: 172.17.0.2, port: UDP/6881
+(N) 2020-08-25T17:10:17 - 'In Treatment Season 1' restored.
+(I) 2020-08-25T17:10:18 - Detected external IP: 122.57.249.156
+(N) 2020-08-25T20:12:32 - WebAPI login success. IP: ::ffff:10.10.10.34
+(I) 2020-08-25T20:24:36 - Detected external IP: 115.189.100.204
+(N) 2020-08-25T20:32:32 - 'In Treatment Season 1' reached the maximum ratio you set. Paused.
+(I) 2020-08-25T20:36:51 - UPnP / NAT-PMP support [OFF]
+(N) 2020-08-25T20:37:40 - qBittorrent v4.2.5 started
+(N) 2020-08-25T20:37:40 - Using config directory: /config/qBittorrent/
+(I) 2020-08-25T20:37:40 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-25T20:37:40 - Peer ID: -qB4250-
+(N) 2020-08-25T20:37:40 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-25T20:37:40 - DHT support [ON]
+(I) 2020-08-25T20:37:40 - Local Peer Discovery support [ON]
+(I) 2020-08-25T20:37:40 - PeX support [ON]
+(I) 2020-08-25T20:37:40 - Anonymous mode [OFF]
+(I) 2020-08-25T20:37:40 - Encryption support [ON]
+(I) 2020-08-25T20:37:40 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(N) 2020-08-25T20:37:40 - Using built-in Web UI.
+(W) 2020-08-25T20:37:40 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-25T20:37:40 - Web UI: Now listening on IP: *, port: 8098
+(I) 2020-08-25T20:37:40 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-25T20:37:40 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-25T20:37:40 - Successfully listening on IP: 172.17.0.2, port: TCP/6881
+(I) 2020-08-25T20:37:40 - Successfully listening on IP: 172.17.0.2, port: UDP/6881
+(N) 2020-08-25T20:37:40 - 'In Treatment Season 1' restored.
+(C) 2020-08-25T20:37:41 - File sizes mismatch for torrent 'In Treatment Season 1', pausing it.
+(I) 2020-08-25T20:37:57 - Detected external IP: 115.189.100.204
+(I) 2020-08-26T07:21:32 - UPnP / NAT-PMP support [OFF]
+(N) 2020-08-26T07:22:22 - qBittorrent v4.2.5 started
+(N) 2020-08-26T07:22:22 - Using config directory: /config/qBittorrent/
+(I) 2020-08-26T07:22:22 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-26T07:22:22 - Peer ID: -qB4250-
+(N) 2020-08-26T07:22:22 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-26T07:22:22 - DHT support [ON]
+(I) 2020-08-26T07:22:22 - Local Peer Discovery support [ON]
+(I) 2020-08-26T07:22:22 - PeX support [ON]
+(I) 2020-08-26T07:22:22 - Anonymous mode [OFF]
+(I) 2020-08-26T07:22:22 - Encryption support [ON]
+(I) 2020-08-26T07:22:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(N) 2020-08-26T07:22:23 - Using built-in Web UI.
+(W) 2020-08-26T07:22:23 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-26T07:22:23 - Web UI: Now listening on IP: *, port: 8098
+(I) 2020-08-26T07:22:23 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-26T07:22:23 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-26T07:22:23 - Successfully listening on IP: 172.17.0.3, port: TCP/6881
+(I) 2020-08-26T07:22:23 - Successfully listening on IP: 172.17.0.3, port: UDP/6881
+(N) 2020-08-26T07:22:23 - 'In Treatment Season 1' restored.
+(I) 2020-08-26T16:09:42 - UPnP / NAT-PMP support [OFF]
+(N) 2020-08-26T16:10:33 - qBittorrent v4.2.5 started
+(N) 2020-08-26T16:10:33 - Using config directory: /config/qBittorrent/
+(I) 2020-08-26T16:10:33 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-26T16:10:33 - Peer ID: -qB4250-
+(N) 2020-08-26T16:10:33 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-26T16:10:33 - DHT support [ON]
+(I) 2020-08-26T16:10:33 - Local Peer Discovery support [ON]
+(I) 2020-08-26T16:10:33 - PeX support [ON]
+(I) 2020-08-26T16:10:33 - Anonymous mode [OFF]
+(I) 2020-08-26T16:10:33 - Encryption support [ON]
+(I) 2020-08-26T16:10:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(N) 2020-08-26T16:10:33 - Using built-in Web UI.
+(W) 2020-08-26T16:10:33 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-26T16:10:33 - Web UI: Now listening on IP: *, port: 8098
+(I) 2020-08-26T16:10:33 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-26T16:10:33 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-26T16:10:33 - Successfully listening on IP: 172.17.0.3, port: TCP/6881
+(I) 2020-08-26T16:10:33 - Successfully listening on IP: 172.17.0.3, port: UDP/6881
+(N) 2020-08-26T16:10:33 - 'In Treatment Season 1' restored.
+(I) 2020-08-26T16:11:18 - UPnP / NAT-PMP support [OFF]
+(N) 2020-08-26T16:12:09 - qBittorrent v4.2.5 started
+(N) 2020-08-26T16:12:09 - Using config directory: /config/qBittorrent/
+(I) 2020-08-26T16:12:09 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2020-08-26T16:12:09 - Peer ID: -qB4250-
+(N) 2020-08-26T16:12:09 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-26T16:12:09 - DHT support [ON]
+(I) 2020-08-26T16:12:09 - Local Peer Discovery support [ON]
+(I) 2020-08-26T16:12:09 - PeX support [ON]
+(I) 2020-08-26T16:12:09 - Anonymous mode [OFF]
+(I) 2020-08-26T16:12:09 - Encryption support [ON]
+(I) 2020-08-26T16:12:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 11:57:26 2020.
+(N) 2020-08-26T16:12:10 - Using built-in Web UI.
+(W) 2020-08-26T16:12:10 - Couldn't load Web UI translation for selected locale (en_US).
+(N) 2020-08-26T16:12:10 - Web UI: Now listening on IP: *, port: 8098
+(I) 2020-08-26T16:12:10 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2020-08-26T16:12:10 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2020-08-26T16:12:10 - Successfully listening on IP: 172.17.0.3, port: TCP/6881
+(I) 2020-08-26T16:12:10 - Successfully listening on IP: 172.17.0.3, port: UDP/6881
+(N) 2020-08-26T16:12:10 - 'In Treatment Season 1' restored.
+(I) 2020-08-28T09:49:27 - Detected external IP: 115.189.98.250
+(N) 2020-08-28T11:27:12 - WebAPI login success. IP: ::ffff:10.10.10.34
